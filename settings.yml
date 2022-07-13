@@ -1,0 +1,3 @@
+epn_id:
+  default: ""
+  description: epn id for affiliate links
